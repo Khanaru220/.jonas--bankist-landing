@@ -20,6 +20,12 @@ https://user-images.githubusercontent.com/74447462/149767158-00ead17d-e87b-4d21-
 - @@ meet a bug: `Identifier 'modal' has already been declared` -- caused by importing `<script>` 2 times
 - Practice: advanced DOM, new events (load, scroll)
 - Used `IntersectionObserver` + `.getBoundingClientRect` to create appear behavior + sticky bar
+- Used "DOM traversing" to make event detect more specific elements
+- Made use of "DOM propagation" to prevent add lots of unneccessary `eventHandler = 1*[event]*[amount boss require us]`
+- Some design components:
+	- Lazy loading (low quality img + blur effect)
+	- Accordion components (toggle `opacity`)
+	- Slider (make use `transform:translate`)
 
 ## Preview
 <img src="https://user-images.githubusercontent.com/74447462/149767376-da61bf60-5b82-41f7-b1f3-03453d7abcbb.png" style="width:100px">
