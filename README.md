@@ -1,6 +1,10 @@
 # Bankist Landing Page 🎢
 
 
+✨Live site: <https://bankist-landing-khanaru.netlify.app/>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ad1ae858-4e0c-40c8-9c3f-7c980a45f19f/deploy-status)](https://app.netlify.com/sites/bankist-landing-khanaru/deploys)
+
 (*If this video 2m. I'll take first 1m to find my headphone* 🎭)
 
 https://user-images.githubusercontent.com/74447462/149767158-00ead17d-e87b-4d21-b882-3f7db9361140.mp4
@@ -10,8 +14,7 @@ https://user-images.githubusercontent.com/74447462/149767158-00ead17d-e87b-4d21-
 ## Music, link credit:
 - Tropic Fuse by French Fuse - Yotube Studio
 - Files `.html` _ `.css` is prebuilt by Jonas
-- Live-preview: https://bankist-landing-khanaru.netlify.app/
-> From:  Jonas's Udemy course:
+> From:  Jonas's Udemy course
 > https://www.udemy.com/course/web-projects-with-vanilla-javascript/
 
 
@@ -28,4 +31,4 @@ https://user-images.githubusercontent.com/74447462/149767158-00ead17d-e87b-4d21-
 	- Slider (make use `transform:translate`)
 
 ## Preview
-<img src="https://user-images.githubusercontent.com/74447462/149767376-da61bf60-5b82-41f7-b1f3-03453d7abcbb.png" style="width:100px">
+<img src="https://user-images.githubusercontent.com/74447462/149767376-da61bf60-5b82-41f7-b1f3-03453d7abcbb.png" style="width:300px">
